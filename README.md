@@ -1,6 +1,6 @@
 ### Olá :)
 
-Sou apaixonado por tecnologia desde que me conheço por gente e escolhi adotar a área como profissão há dois anos. Desde então venho estudando o desenvolvimento de software para web, iniciando com as tecnologias Javascript tanto em back-end quanto em front-end.
+Eu sou e Xira. Sou apaixonado por tecnologia desde que me conheço por gente e escolhi adotar a área como profissão há dois anos. Desde então venho estudando o desenvolvimento de software para web, iniciando com as tecnologias Javascript tanto em back-end quanto em front-end.
 
 Com a finalidade de aprimorar meu conhecimento na programação, participei de alguns projetos onde pude me ambientar com o processo de desenvolvimento ágil participando de cerimônias SCRUM como refinement, planning, daily meet, review e retrospective, além de ter a oportunidade de trabalhar em equipe adotando práticas como pair programming.
 
